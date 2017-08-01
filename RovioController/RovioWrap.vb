@@ -54,12 +54,12 @@ Public Class RovioWrap
 
   ' Rovio's address/port/and access to the last get status string requested
   Public RovioIP As String = "192.168.10.18"
-    Public RovioHostName As String = "kelley.noip.me"
+    Public RovioHostName As String = "yourhostname"
   'Public RovioIP As String = "117.117.1.133"
   Public RovioPort As Integer = 80
   Public LastStatusString As String = ""
   Public Username As String = "admin"
-  Public Password As String = "ECB88utu"
+  Public Password As String = ""
 
   ' Default movement speed for all movement commands
   ' (overridden in optional paramter list in some commands)
