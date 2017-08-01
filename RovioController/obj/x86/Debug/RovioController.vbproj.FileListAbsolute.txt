@@ -1,0 +1,15 @@
+C:\roviowrap\RovioController\bin\x86\Debug\RovioController.exe.config
+C:\roviowrap\RovioController\bin\x86\Debug\RovioController.exe
+C:\roviowrap\RovioController\bin\x86\Debug\RovioController.pdb
+C:\roviowrap\RovioController\bin\x86\Debug\RovioController.xml
+C:\roviowrap\RovioController\bin\x86\Debug\Interop.SpeechLib.dll
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.vbprojResolveAssemblyReference.cache
+C:\roviowrap\RovioController\obj\x86\Debug\Interop.SpeechLib.dll
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.vbproj.ResolveComReference.cache
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.Resources.resources
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.RovioController.resources
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.TrainedRovio.resources
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.vbproj.GenerateResource.Cache
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.exe
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.xml
+C:\roviowrap\RovioController\obj\x86\Debug\RovioController.pdb
